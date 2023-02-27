@@ -1,0 +1,10 @@
+/**
+ * @package		Extension for OpenCart: Multi Replacer.
+ * @author		Roman Sha
+ * @copyright	2022 © All Rights Reserved
+ * @license		Commercial
+ * @link		https://opencartforum.com/files/developer/678008-sha/?utm_medium=profilecpage
+ */
+#content.multiedit .btn {
+    max-height: 35px;
+}
