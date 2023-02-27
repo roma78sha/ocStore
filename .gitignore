@@ -54,6 +54,8 @@
 /tests/phpunit/bootstrap.php
 
 /library/HTMLPurifier/DefinitionCache/Serializer/*
+upload/system/helper/HTMLPurifier/DefinitionCache/Serializer/*
+upload/system/storage/vendor/*
 
 # IDE Project files
 /.idea
